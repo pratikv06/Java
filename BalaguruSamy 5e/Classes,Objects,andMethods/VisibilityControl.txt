@@ -1,0 +1,13 @@
+1. Also known as Access Modifier
+2. Access modifiers in Java helps to restrict the scope of a class, constructor , variable , method or data member. 
+3. Four Type:  -> Public
+               -> Private
+               -> Protected
+               -> Default
+               -> Private Protected (Combination of two)
+
+4. Public - visible everywhere
+5. Protected - visible everywhere in the current package and also subclasses in other packages
+6. Default - visible everywhere in the current package
+7. Private Protected - visible only in subclasses, regardless of packages
+8. Private - visible only in its own class
