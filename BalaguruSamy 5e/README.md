@@ -3,9 +3,9 @@ By Balagurusamy
 Fifth Edition
 
 All the Code Present in the book of this edition is Present Chapterwise.
-
+************************************************************************************
 Chapter:\
-3. [Overview of Java language](OverviewofJavalanguage)<br>
+3. [Overview of Java language](OverviewofJavalanguage)\
 4. [Constant, Variables and Data Types](Constant,VariablesandDataTypes)\
 5. [Operators and Expressions](OperatorsandExpressions)\
 6. [Decision Making and Branching](DecisionMakingandBranching)\
@@ -17,4 +17,4 @@ Chapter:\
 12. [Multithreaded Programming](MultithreadedProgramming)\
 13. [Managing Errors and Exceptions](ManagingErrorsandExceptions)\
 16. [Files](Files)\
-17. [Java Collections](JavaCollections)\
+17. [Java Collections](JavaCollections)
