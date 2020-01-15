@@ -1,0 +1,18 @@
+Documentation Section   <-- Set of Comment lines giving the name of program, 
+                            author, and other details. Helps in maitaining 
+                            Programs. (Suggested)
+
+Package Statement       <-- This statement declare a package name and inform 
+                            compiler that the classes defined here belong to 
+                            this package. (Optional)
+
+Import Statements       <-- Instruct the Interpreter to load classes of the 
+                            named package, this is written before any class 
+                            statements (Optional)
+
+Interface Statements    <-- It is like class but includes a group of Method   
+                            Decleraations (Optional)
+
+Class Definations       <-- A Java Program may contain multiple class (Optional)
+
+main Method Defination  <-- Starting point of program, Essential Part

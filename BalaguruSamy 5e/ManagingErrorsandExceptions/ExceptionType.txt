@@ -1,0 +1,18 @@
+Some Commonly Used Exception:
+
+
+   Exception               >  Caused By
+1. ArithmeticException > math errors such as division by zero
+2. ArrayIndexOutOfBoundsException > bad array indexes
+3. ArrayStoreException > when a program tries to store the wrong type of data in 
+                         an array
+4. FileNotFoundException > an attempt to access a nonexistent file
+5. OIException > general I/O failure, such as inability to read from a file
+6. NullPointerException > referencing null object
+7. NumberFormatException > when a conversion between string and number fails
+8. OutOfMemoryException > when there not enough memory to allocate a new object
+9. SecurityException > when an applet tries to perform an action not allowed
+                       by the browser security setting
+10. StackOverFlowException > When the system runs of stack space
+11. StringIndexOutOfBoundsException > when a program attempts to access a 
+                                      nonexistent character position in a string
