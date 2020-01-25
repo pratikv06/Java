@@ -1,0 +1,26 @@
+Primitive Type of variable in java:
+
+
+Type        Keyword     Description
+**************************************************************
+character   char        16-bit Unicode character data      
+boolean     boolean     true/false values
+byte        byte        8-bit signed integer numbers
+short       short       16-bit signed integer numbers
+int         int         32-bit signed integer numbers
+long        long        64-bit signed integer numbers
+float       float       32-bit signed floating-point numbers
+double      double      64-bit signed floating-point numbers
+**************************************************************
+
+1. Long number must end with 'l' or 'L'
+2. Float number must end with 'f' or'F'
+3. Octal number must begin with '0'
+4. HexaDecimal number must begin with '0X'
+
+**************************************************************
+NOTE:
+1. signed = both positive and negative numbers
+2. unsigned = only non-negative numbers
+3. Unicode is a character set that can accommodate many different human languages
+4. Difference between float and double is double provides about twice the precision
