@@ -11,4 +11,4 @@ Chapter:
 1. [Fundamentals](Fundamentals)
 2. [Using Classes and Methods](UsingClassesandMethods)
 3. [Control Statement](ControlStatement)
-4. [Control Satements and Operators](ControlStatementsAndOperators)
+4. [Control Satements and Operators](ControlStatementAndOperators)
